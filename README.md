@@ -10,7 +10,7 @@
 Sovereign is a decentralized governance platform for small & large organizations.
 
 <p align="center">
-<img src="public/images/sovereign-demo.gif" width="400" title="Sovereign Demo">
+<img src="public/images/sovereign-demo.gif" width="600" title="Sovereign Demo">
 </p>
 
 **Features:**
